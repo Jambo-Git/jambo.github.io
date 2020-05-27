@@ -2,7 +2,7 @@
 title: Jambo
 email: jambo_ma@163.com
 description: 做一个渐入佳境的初学者
-baseurl: "jambo.github.io"
+baseurl: "/study"
 url: "https://jambo.github.io" # the base hostname & protocol for your site
 twitter_username: jambo-T
 github_username:  jambo-Git
